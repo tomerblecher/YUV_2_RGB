@@ -24,7 +24,7 @@ Here are the results for 2 different physical devices tested:
   * *Low quality*: **~0.015-0.016** Seconds.
   * *Medium quality*: **~0.03-0.05** Seconds.
   * *High quality*: **~0.09-0.1** Seconds.
-  * 
+  
 ## What does this example includes?
 * Permission handling for the camera(loop until the users accept).
 * Full screen of the live camera preview
